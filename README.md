@@ -85,3 +85,4 @@ The FID, IS, precision and recall values (corresponding to table 5 of the paper)
 - Precision and recall : from the `precision-recall-distributions` directory, follow its [README.md](precision-recall-distributions/README.md) for environment setup. Then run `python prd_from_image_folders.py --reference_dir REF_DIR --eval_dirs EVAL_DIR`
 
 The above commands will all print results to `STDOUT`
+# Varscene
