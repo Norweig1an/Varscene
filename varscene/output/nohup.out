@@ -1,0 +1,8 @@
+srun: job 4105992 queued and waiting for resources
+srun: job 4105992 has been allocated resources
+srun: Job 4105992 scheduled successfully!
+Current QUOTA_TYPE is [reserved], which means the job has occupied quota in RESERVED_TOTAL under your partition.
+Current PHX_PRIORITY is normal
+
+/mnt/cache/liuruiyang/miniconda3/envs/sgg/bin/python: can't open file 'train_property_optim_decoder.py': [Errno 2] No such file or directory
+srun: error: SH-IDC1-10-140-1-123: task 0: Exited with exit code 2
